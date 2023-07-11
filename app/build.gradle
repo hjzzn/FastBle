@@ -1,6 +1,3 @@
-plugins {
-    id 'com.android.application'
-}
 
 android {
     compileSdkVersion rootProject.ext.android.compileSdkVersion
